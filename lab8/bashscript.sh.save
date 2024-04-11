@@ -1,3 +1,0 @@
-#!/bin/bash
-
-curl https://aviationweather.gov/api/data/metar?ids=KMCI&format=json&taf=false&hours=12&bbox=40%2C-90%2C45%2C-85 | jq -r .[].receiptTimecurl https://api.github.com/repos/nmagee/ds2002-course/branches | jq -r .[].namecurl https://api.github.com/repos/nmagee/ds2002-course/branches | jq -r .[].namecurl https://api.github.com/repos/nmagee/ds2002-course/branches | jq -r .[].namecurl https://api.github.com/repos/nmagee/ds2002-course/branches | jq -r .[].namecurl https://api.github.com/repos/nmagee/ds2002-course/branches | jq -r .[].namecurl https://api.github.com/repos/nmagee/ds2002-course/branches | jq -r .[].namecurl https://api.github.com/repos/nmagee/ds2002-course/branches | jq -r .[].namecurl  | jq -r .[].name
